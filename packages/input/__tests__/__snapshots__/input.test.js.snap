@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`zx-input input-snapshot 1`] = `
+<div>
+  <input
+    type="text"
+  />
+</div>
+`;
+
+exports[`zx-input input-snapshot1 1`] = `
+<div>
+  <input
+    type="text"
+  />
+</div>
+`;
